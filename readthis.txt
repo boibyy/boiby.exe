@@ -1,0 +1,7 @@
+pygame
+os
+psutil
+platform
+random
+
+you will need pyinstaller to build

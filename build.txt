@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --add-data "img/boiby.png;img" --add-data "img/boiby2.png;img" --add-data "sounds/*.mp3;sounds" --noconsole --icon "newicon.ico" boiby.py
